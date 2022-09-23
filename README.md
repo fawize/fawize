@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fawize
 - 👀 I’m interested in programming generally 
 - 🌱 I’m currently learning node js bootstrap js HTML CSS 
-- 💞️ I’m looking to collaborate on data analytics 
+- 💞️ I have alot of interest in becoming a backend developer
 - 📫 How to reach me ...
 
 <!---
